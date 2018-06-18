@@ -1,0 +1,11 @@
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\bin\Debug\GitDemo.exe
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\bin\Debug\GitDemo.xml
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.vbprojResolveAssemblyReference.cache
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.Form1.resources
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.Resources.resources
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.vbproj.GenerateResource.Cache
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.exe
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.xml
+C:\Users\Jaci2016\Desktop\GitTmp\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
